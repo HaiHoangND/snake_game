@@ -1,7 +1,8 @@
 # Snake Game
 
 This project has the topic of embedded systems, specifically about snake game on ledmatrix using arduino uno.
-_The final project will look like this_
+
+*The final project will look like this*
 
 ![result](https://github.com/HaiHoangND/snake_game/assets/93688440/7cb6c70f-59f6-48a4-8da5-f3882a27e6f8)
 
