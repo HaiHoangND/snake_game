@@ -3,7 +3,7 @@
 This project has the topic of embedded systems, specifically about snake game on ledmatrix using arduino uno.
 _The final project will look like this_
 
-![image](https://drive.google.com/file/d/1UyZ3_CvR8rco-Wumczf8Fr224vgEFuWD/view?usp=drive_link)
+![result](https://github.com/HaiHoangND/snake_game/assets/93688440/7cb6c70f-59f6-48a4-8da5-f3882a27e6f8)
 
 # Table of contents
 
@@ -45,7 +45,7 @@ This is a _[demo video of snake game](https://youtu.be/zl4Zn1ty6aY)_
 
 # Hardware Schematic
 
-![image](https://drive.google.com/file/d/1sXE36T01lGSweIY69g824HhyEPciCu2n/view?usp=drive_link)
+![Schematic](https://github.com/HaiHoangND/snake_game/assets/93688440/7023ee14-160e-4ca5-af7a-8021b47ea62c)
 
 # Software Concept
 
